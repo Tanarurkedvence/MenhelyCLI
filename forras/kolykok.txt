@@ -1,0 +1,9 @@
+Bundi;keverék;1
+Csoki;labrador;2
+Bella;border collie;2
+Mazsola;tacskó;1
+Buksi;vizsla;2
+Panni;puli;2
+Mogyoró;keverék;0
+Bogyó;beagle;1
+Netti;labrador;1

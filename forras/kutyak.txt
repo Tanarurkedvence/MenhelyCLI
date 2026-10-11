@@ -1,0 +1,31 @@
+Nev;Fajta;Kor;Suly;Nem;Orokbefogadva
+Bodri;keverék;3;12;kan;Nem
+Morzsi;tacskó;7;8;szuka;Igen
+Rex;német juhász;5;34;kan;Nem
+Bundi;keverék;1;6;szuka;Nem
+Frakk;vizsla;4;25;kan;Igen
+Csoki;labrador;2;28;szuka;Nem
+Pamacs;puli;6;14;kan;Nem
+Lili;beagle;3;11;szuka;Igen
+Max;labrador;8;32;kan;Nem
+Bella;border collie;2;17;szuka;Nem
+Zsömle;keverék;10;15;kan;Nem
+Mazsola;tacskó;1;5;szuka;Nem
+Tappancs;beagle;5;12;kan;Igen
+Hópihe;keverék;4;9;szuka;Nem
+Buksi;vizsla;2;23;kan;Nem
+Luna;német juhász;3;29;szuka;Igen
+Cézár;keverék;12;20;kan;Nem
+Panni;puli;2;12;szuka;Nem
+Rocky;border collie;6;19;kan;Nem
+Mogyoró;keverék;0;4;kan;Nem
+Kormi;labrador;4;30;kan;Igen
+Fifi;tacskó;9;7;szuka;Nem
+Bogyó;beagle;1;9;kan;Nem
+Szotyi;keverék;7;13;szuka;Nem
+Villám;vizsla;6;26;kan;Nem
+Maci;keverék;3;38;kan;Nem
+Cirmi;keverék;5;10;szuka;Igen
+Dió;puli;11;13;kan;Nem
+Netti;labrador;1;22;szuka;Nem
+Lord;német juhász;9;36;kan;Nem
